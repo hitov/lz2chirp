@@ -1,0 +1,154 @@
+category	repeater_callsign	r	rx	tx	CTCSS	pwr	qth	qra	lat	lon	asl	building	ant	remarks	rig	url	sysop_name	sysop_call	owned	operational
+VHF	LZ0SMO	RV48(R0)	145.600	145.000	91.5	10	p. Izvorec	KN21IN	41.5613	24.68317	1608	TV Tower Kaynadina	Diamond X-50<br>sponsored by LZ1DJ		Yaesu VXR7000	http://lz1ny.net/img/repeaters/TVTowerKaynadina.jpg		LZ1YKY		n
+VHF	LZ0BOT	RV52(R2)	145.650	145.050		25	peak Botev	KN22LR	42.7174166667	24.9171944444	2376	връх Ботев	Procom	Echolink Node 9870 (Analog/DMR Mix mode possible)	Hytera RD985	http://www.repeaters.bg/repeater/view/id/3/	Victor Tsenkov	LZ3NN	LZ1AA	n
+UHF	LZ0DOE	RU720	439.000	431.400	79.7		Cherni vrah	KN12OP	42.565444	23.289985	2260	ATSA					Georgi Mihaylov	LZ1LSD		n
+VHF	LZ0CUM	RV54(R3)	145.675	145.075		50	p. Chumerna	KN22XS	42.7833333333	25.975	1536	Chumerna hut				http://lz1ny.net/img/repeaters/lz0cum.jpg	Victor Tsenkov	LZ3NN	BFRA	n
+VHF	LZ0SLV	RV56(R4)	145.700	145.100		20	Karandila, Sliven	KN32ER	42.7154806816	26.3641029596	1050		2x5/8		VXR-7000	http://www.predavatel.com/bg/5/sli.htm	Georgi Tsenkov	LZ1GHT	LZ3WE    /Veso/	n
+VHF	LZ0VRF	RV58(R5)	145.725	145.125		10	nr.Plovdiv	KN21IX	41.9997222222	24.7275	1279	Glass Factory Rest Home	Vetrical		Yaesu FTR 2410A		Vasil Shatarov	LZ1CL	Radio Club Plovdiv	n
+VHF	LZ0RCT	RV60(R6)	145.750	145.150			nr. Trojan	KN22HS	0.0	0.0							Bojidar Cvetanov	LZ2HE	Radio club Troyan	y
+VHF	LZ0KOM	RV62(R7)	145.775	145.175		10	nr. Belogradchik	KN13IP	43.62837	22.70636	863	TV Tower	RX:TX-X50:RX-X50	RX-4dupl.filt,TX-2dupl.filt.	BRG 301/FM-160d	http://lz1ny.net/LZ2CM/	Plamen Georgiev	LZ2CM		n
+VHF	LZ0RSL	RV62(R7)	145.775	145.175		10	Silistra	KN34PC	44.1019444444	27.2594444444	197	TV Tower	GP	CW ID - ''LZ0RSL KN34PC 197M''	FM10/164 + FM302	http://www.predavatel.com/bg/7/silistra.htm#rrts	Petinka Neycheva	LZ4SV		n
+VHF	LZ0VAR	RV62(R7)	145.775	145.175	88.5		nr Varna	KN33XF	43.235984	27.945579								LZ2DZ		n
+UHF	LZ0SMN	RU694	438.700	431.100	91.5	15	nr. Shumen	KN33LG	43.252262	26.927382	480		2x5/8	Operational	VXR7000	http://lz1ny.net/img/repeaters/LZ0SMN.jpg	Zlatan Dimitrov	LZ4ZD	BFRA	n
+VHF	LZ0WAG	RV28(R14)	145.350	144.750			Sofia	KN12PQ	42.6901166667	23.307375			2 x 2 x 5/8 landa	EchoLink LZ0WAG-R			Vladimir Gorbunov	LZ1WAG		n
+UHF	LZ0UHF	RU752	439.400	431.800	79.7	35	Vitosha	KN12PN	0.0	0.0	2290		Diamond BC200		Kenwood		Dimitar Colov	LZ1DCN		n
+BCN	LZ0GHZ		2320.800			1	peak Cherni vrah		0.0	0.0				Temporary OFF	SG-Lab		Neven	LZ1JNG		n
+UHF	LZ0IVA	RU746	439.325	431.725	91.5	10	Ivanci	KN21QQ	41.6727777778	25.4038888889	640	''Civil Protection''	3x5/8 BC200		VXR7000		Bogdan Bogdanov	LZ1VO	BFRA	n
+UHF	LZ0BGM	RU744	439.300	431.700	79.7		p. Musala	KN12TE	42.1791666667	23.5851666667	2925	BEO Musala		радиолинк с LZ0UHF и LZ0BGY. За изключване на линка DTMF 300,pd lu.z'ldke DTMF 300#	VXR-9000		Georgi Mihaylov	LZ1LSD		n
+UHF	LZ0MAR	RU730	439.125	431.525		25	MarkovskiRat, Shipka	KN22PS	42.754351	25.305765	1280	РРС Шипка	Collinear - JAYBEAM 5.5 dBd	EchoLink     Call: LZ0MAR-R     Node: 309503	RS4000 (Ericsson)	http://lz2kac.org/bg/repeaters/repeater-lz0mar.html	Iliya Nedelchev	LZ2IVN		n
+UHF	LZ0ROJ	RU692	438.650	431.050	91.5	10	p.Snejanka	KN21IP	41.6364138889	24.6776972222	1911	TV  Tower	1 x AC5-3G		VXR7000		Krasimir Yaramov	LZ3KL	BFRA	n
+UHF	LZ1ZF-L		433.200			5	Stara Zagora	KN22TJ	42.41218	25.62202 			GP	LZ1ZF-L  (Echolink node num: 532319)			Geogi Vodenicharov	LZ1ZF		n
+BCN	LZ1RR		144.414	---		0.3	p. Musala	KN12TE	42.1791666667	23.5851666667	2925	BEO Moussala	GP			http://lz1ny.net/img/repeaters/BEO2008.JPG	Miko MIkov	LZ1RR		n
+UHF	LZ0RUS	RU758	439.475	431.875			Ruse		0.0	0.0							Milcho Yovchev	LZ2ZD	Terakom Ltd	y
+VHF	LZ0RAB	RV50(R1)	145.625	145.025		10	Provadia	KN33QC	43.0935111111	27.3783972222 	350	TV   Royak	2el    Yagi	QTF 30	PT2310		Kristo Kristov	lz2ab		n
+VHF	LZ0KAC	RV48(R0)	145.600	145.000		15w	Gabrovo	KN22PV	42.87543	25.30735	521	TU-Gabrovo	GP	e-link LZ0KAC-R			Iliya Nedelchev	LZ2IVN	TU Gabrovo	n
+VHF	LZ0BGN	RV60(R6)	145.750	145.150	79.7	50	Petrohan	KN13ND	43.133611	23.118889	1626	TV Tower	X200 + X200	13.oct.2012 shut down for maintenance	Kenwood	http://www.predavatel.com/bg/9/montana.htm#pet	Georgi Mihaylov	LZ1LSD		y
+VHF	LZ0NAO	R15	145.375	144.775	91.5	15	p. Snezhanka	KN21IP	41.6364138889	24.6776972222	2082	TV Tower	Diamond X50 by LZ1DJ		Yaesu VXR7000	http://lz1ny.net/img/repeaters/lz0nao.jpg	Krasimir Yaramov	LZ3KL	BFRA	n
+BCN	LZ0MON		50.054			0.5	nr. Montana	KN13PK	0.0	0.0						http://lz1ny.net/LZ2CM/	Plamen Georgiev	LZ2CM	LZ2CM	n
+BCN	LZ0MON		144.424	---		0.5	Montana	KN13OJ	43.39917	23.2372	160	Dom				http://lz1ny.net/LZ2CM/	Plamen Georgiev	LZ2CM		n
+APR	LZ0DBU		439.525	431.925		20	Burgas	KN32R	42.5037	27.4625	150		Diamond X50		Motorola		Pavel	LZ1PVP		n
+APR	LZ0VRC	RU732	439.150	431.550	79.7	15	Vratsa	KN13SF	43.2352777778	23.6	360		X50	DMR/Analog	Motorola		Miroslav Nikolov	LZ4NY		n
+APR	LZ0VRC			144.800		4	Vraca	KN13SF	43.2218333333	23.5441666667			Omni	APRS I-Gate (LZ0VRC-2)		http://lz0vrc.aprs.bg:14501	Miroslav Nikolov	LZ4NY		n
+UHF	LZ0DSR	RU734	439.175	431.575		25	Vitosha, nr. Sofia		42.5668333333	23.2881666667				First D-Star repeater in LZ, modulation GMSK	ID RP4000V+ID RP2C	http://www.youtube.com/results?search_query=LZ0DSR&aq=f	Neven Georgiev	LZ1JNG		n
+UHF	LZ0PTH	RU696	438.700	431.100		10	Petrohan	KN13NC	43.1166666667	23.1377777778	1531		J-Pole		RX/TX: Maxon PM100		Georgi Krastev	LZ1OSC		y
+UHF	LZ0PLD	RU704	438.800	431.200	79.7		Plovdiv	KN22ID	42.1369444444	24.7316666667	257	Dzendem tepe	2 x 5/8	ECHOLINK LZ0PLD No. 493997 Crossband link 145.475MHz	MOTOROLA GP1200		Marian Todorov	LZ1CWT		n
+BCN	LZ0AAB	BEACON	144.435	TNX LZ3GH		10	Kyustendil	KN12IG	0.0	0.0	626	Deva Broadcast	2 el	QTF 40degres	Arduino Uno + SI5351			LZ2AB		n
+UHF	LZ0SEA	RU728	439.100	431.500	79.7		nr. Burgas	KN32TT	42.79857	27.65553	513	TV Tower, p. Edelvays			VXR-5000		Georgi Mihaylov	LZ1LSD		n
+VHF	LZ0STV	RV26	145.325	144.725		17	Stramni rid	KN21RK	41.43961	25.48395	991	TV Tower	2 x X-50  (LZ1DJ)		Maxon		Ivan Staykov	LZ3VB		n
+VHF	LZ0RCB	RV48 (R0)	145.600	145.000		25	nr.Burgas,p.Chiplaka	KN32QL	42.4675	27.4	141	DEVA Broadcast Tower	ARX-2B	CW ID-LZ0RCB	KENWOOD TKR-720	http://repeaters.lz1ny.net/img/repeaters/LZ0RCB_LZ3CB_PACTOR_BBS.JPG	Todor Ivanov	LZ3CB		n
+UHF	LZ0DIM	RU758	439.475	431.875		10	Dimitrobgrad	KN21SB	42.045899	25.577803	134		Omni		Ericsson board		Krasimir Bratanov	LZ1QF		n
+VHF	LZ0RKN	RV58(R5)	145.725	145.125		45	Kyustendil	KN12HH	0.0	0.0	1500	private home	GP		Motorola		Dimitar Mirazchiyski	LZ1SAM		n
+UHF	LZ0RDP	RU720	439.000	431.400		30	Varna	KN33WD	43.1639666667	27.9040388889	180		Diamond X-200				Dimitar Dimitrov	LZ4DP		n
+UNK	LZ0BAR								0.0	0.0							Georgi Mihaylov	LZ1LSD		y
+BCN	LZ0DLS		10.14025			0.0	Radomir	KN12LN	42.544367	22.971349	650			200 mW WSPR beacon	Si 570 + Arduino	http://wspr.lz1ny.net	Victor Marinov	LZ1NY		n
+UNK	LZ0BFR								0.0	0.0							Georgi Mihaylov	LZ1LSD		y
+UNK	LZ0BSK								0.0	0.0							Iliyan Geshev	LZ3GA		y
+UNK	LZ0EEE								0.0	0.0							Milcho Yovchev	LZ2ZD	Terakom Ltd	y
+UNK	LZ0ETD								0.0	0.0							Emil Dimitrov	LZ1ETD		y
+UNK	LZ0IOS								0.0	0.0							Alexander Damyanov	LZ3JY		y
+UNK	LZ0KAM								0.0	0.0							Trifon Trifonov	LZ1TD	Radio club Haskovo	y
+UNK	LZ0KSN								0.0	0.0							Ilcho Stanev	LZ1SN	Club Lukoil Neftochim	y
+UNK	LZ0LSD								0.0	0.0							Georgi Mihaylov	LZ1LSD		y
+UHF	LZ0FSB	RU732	439.150	431.550		12	Sofia	KN12OP	42.6495277778	23.2489305556	796	country house	Diamond X-200 HM		Ericsson board		Vencislav Stoev	LZ1FSB		n
+UHF	LZ0PLK	RU754	439.425	431.825	103.5	25	Pavlikeni	KN23PD	43.16321	25.32316	340	Vestel Mast	Colinear	Echolink Node 733137	Kenwood TK-8180	http://lz2njg.com/lz0plk/	Borislav Borisov	LZ2BH	LZ2BH & LZ2NJG	n
+UNK	LZ0PPP								0.0	0.0							Georgi Georgiev	LZ2GGE		y
+UNK	LZ0RBT								0.0	0.0							Anna Tzanova	LZ3GU		y
+UNK	LZ0SAT								0.0	0.0							Anton Minchev	LZ2SAT		y
+APR	LZ0SOF		144.800	144.800			Sofia	KN12QP	42.6566666667	23.3828333333							Nickolay Botev	LZ1PV		n
+VHF	LZ0SMM	RV28(R14)	145.350	144.750		35	Shumen	KN33LG	43.252262	26.927382	480	Tower	Diamond X-30	Operational	VXR-9000		Zlati	LZ4ZD		n
+UNK	LZ0TRG								0.0	0.0							Tanyo Tanev	LZ1TP		y
+UNK	LZ0TTT								0.0	0.0							Milcho Yovchev	LZ2ZD	Terakom Ltd	y
+UNK	LZ0USA								0.0	0.0							Vladimir Velikov	LZ1WIW		y
+UNK	LZ0VRZ								0.0	0.0							Hristo Shipochki	LZ1JJ		y
+UNK	LZ0WDX								0.0	0.0							Stefan Aleksandrov	LZ1WDX		y
+UHF	LZ0MAI	RU766	439.575	431.975		12	Sofia	KN12PQ	42.6901166667	23.307375	568	Hospital	Diamond X-200 HM		Ericsson board		Vladimir Gorbunov	LZ1WAG		n
+VHF	LZ0DOE	RV50(R1)	145.625	145.025		50	p. Cherni Vrah	KN12PN	42.565444	23.289985	2260					http://www.facebook.com/media/set/?set=a.2727551756603.2111836.1491465380&type=3	Georgi Mihaylov	LZ1LSD		n
+APR	LZ0BGM		144.800	144.800			p. Musala	KN12TE	42.1791666667	23.5851666667	2925	BEO MUsala					Georgi Mihaylov	LZ1LSD		n
+UHF	LZ0DVB	RU764	439.550	431.950			p. Botev	KN22LR	42.7173333333	24.9173333333	2376			D-star	ID RP4000V+ID RP2C		Ivaylo Dochev	LZ1IDD		n
+VHF	LZ0GDO	RV62(R7)	145.775	145.175		20	peak Orelyak	KN11UN	41.57041	23.61276	2099	TV Tower	ASKI		YAESU	http://repeaters.lz1ny.net/img/repeaters/ProektR7.JPG	Zdravko Avdikov	LZ1RMA	BFRA	n
+UHF	LZ0SUN	RU676	438.425	430.825		25	Sofia vr.Cherni vruh	KN12PN	42.6099	23.3403	2250	Tower	Omni	D-Star	Motorola	http://xlx359.ddns.net	LZ1PVP	LZ1PVP	LZ1PVP	n
+UHF	LZ0GEO	RU712	438.900	431.300	74.4	10	peak Mandra		41.9966666667	24.7205555556		TV Tower ''Zdravets''		test mode from KN21IX	2xMaxon	http://www.predavatel.com/bg/3/plovdiv#zdr	Vasil Shatarov	LZ1CL	Radio club Plovdiv	n
+UHF	LZ0CHM	RU750	439.375	431.775		20	nr. Chumerna	KN22XS	42.7807666667	25.9652666667	1500		2x5/8		VXR-7000		George Tsenkov	LZ1GHT		n
+VHF	LZ0WOL	RV56(R4)	145.700	145.100		30	Vratsa	KN13SD	43.1544444444	23.5841666667	1048	Memorial Complex ''Ocoltchica peac''	Diamond X50 - LZ1DJ		Yaesu FTR 2410A	http://www.flickr.com/photos/alex_alexandrov/sets/72157630046815728/	Victor Tsenkov	LZ3NN	BFRA	n
+UHF	LZ0MSS	RU660	438.850	431.250	85.4	19	с.Балша	KN12PU	0.0	0.0	780		10 ел. яги		Ericsson board		Georgi Chakarov	LZ1UZO	OFFROAD Assoc.	n
+UHF	LZ0SLU	RU700	438.750	431.150		15	Karandila, Sliven	KN32ER	42.7154806816	26.3641029596	1050		2x5/8	LZ3WE-R /EchoLink: 166183/	Home made		Georgi Tsenkov	LZ1GHT	LZ3WE    /Veso/	n
+VHF	LZ0TRI	RV54(R3)	145.675	145.075			Sofia	KN12QQ	0.0	0.0							Nickolay Nickolov	LZ5XR		n
+UNK	LZ0TEN								0.0	0.0							Nickolay Nickolov	LZ5XR		y
+UNK	LZ0MIC								0.0	0.0							Nickolay Nickolov	LZ5XR		y
+BCN	LZ0VVV		1296.810			1	Sofia	KN12PQ	42.6863888889	23.2572222222	597		Alford Slot (Omni)	polarisation(H)	LZ5HP		Victor Marinov	LZ1NY		n
+UHF	LZ0BGN	RU736	439.200	431.600	79.7		Petrohan	KN13ND	43.133611	23.118889	1635	НУРТС				https://i.imgur.com/shnIOBt.png	Georgi Mihaylov	LZ1LSD		n
+UHF	LZ0CBK	RU688	438.600	431.000		25	nr. Sofia, Kopitoto	KN12OP	42.63605	23.24797		Hotel Kopitoto\	Kathrein- K936037 ,omni	PROCOM DPF- 70/6-150-3/5	Motorola GR-300-UHF		Borislav Kostadinov	LZ1CBK		n
+UHF	LZ0HAS	RU748	439.350	431.750		10	Haskovo	KN21SW	41.939167	25.555278	250	COSMOS	BC200		RFT		Krasinir Bratanov	LZ1QF	Radio club Haskovo	n
+UHF	LZ0DAB	RU684	438.550	430.950		23	Sofia	KN12OP	42.636978	23.243964	1327	Копитото	Omni	D-Star	ID RP4000V+ID RP2C	http://www.repeaters.bg/repeater/view/id/9/	LZ1AA	LZ1AA		n
+UHF	LZ0MCC		438.825	431.225		20	София	KN12PQ	0.0	0.0	580		Diamond X-200	Test mode	Ericsson board		Georgi Chakarov	LZ1UZO	OFFROAD Assoc.	y
+UHF	LZ0MRC		438.875	431.275		20	София	KN12PQ	0.0	0.0			Diamond X-200	Test Mode	Ericsson board		Georgi Chakarov	LZ1UZO	OFFROAD Assoc.	y
+UHF	LZ0RVC	RU740	439.250	431.650		25	Maslen Nos	KN32VI	42.334438	27.782707	10	Military Tower	Diamond X200	Test mode D-Star	Ericsson board		Radostin Dinkov	LZ1RVD		y
+UNK	LZ0CAR								0.0	0.0							Todor Ivanov	LZ3CB		y
+UHF	LZ0DBS	RU768	439.600	432.000			Chiplaka peak	KN32QL	42.4667846417	27.3995992541	151	TV Tower DEVA Broadcast	Diamond  X-50	D-STAR	ID RP4000V+ID RP2C		Todor Ivanov	LZ3CB	LZ3CB	n
+UNK	LZ0DAL						Daladzha		41.5752777778	25.1727777778							Ivan Staykov	LZ3VB		y
+UHF	LZ0RVA	RU716	438.950	431.350	85.4	20	Pazardjik/ Sbor	KN22DI	42.3384	24.2987	348	Private house	Diamond X200		Ericsson board		Radostin Dinkov	LZ1RVD		n
+UHF	LZ0RDB	RU736	439.200	431.600	79.7	20	Chiplaka peak	KN32QL	42.4680555556	27.4	151	TV Tower DEVA Broadcast	Diamond  X-50	CW ID-LZ0RDB	2X GM350		Todor Ivanov	LZ3CB	LZ3CB	n
+UHF	LZ0DAC	RU692	438.450	430.850		25	Stara Zagora	KN22UL	42.4736	25.6668	557	TV Tower	Kathrein 9 dBi	D-Star	Motorola	http://xlx359.ddns.net	Pavel Kostadinov	LZ1PVP	LZ1PVP	n
+UNK	LZ0DAL								0.0	0.0							Ivan Staykov	LZ3VB		y
+UNK	LZ0STA								0.0	0.0							Ivan Staykov	LZ3VB		y
+UNK	LZ0STU								0.0	0.0							Ivan Staykov	LZ3VB		y
+UNK	LZ0STV								0.0	0.0							Ivan Staykov	LZ3VB		y
+UNK	LZ1MSR								0.0	0.0							Georgi Chakarov	LZ1UZO		y
+UNK	LZ0OFR								0.0	0.0							Georgi Chakarov	LZ1UZO		y
+UNK	LZ0FAR								0.0	0.0							Angel Ahchiyski	LZ4AE		y
+UNK	LZ0SKY								0.0	0.0							Victor Marinov	LZ1NY		y
+UHF	LZ0DAV	RU684	438.550	430.950		23	Varna	KN33XF	43.233	27.9563	130	Франгата	Omni	D-Star	ID RP4000V+ID RP2C	http://www.repeaters.bg/repeater/view/id/44/	LZ1AA	LZ1AA		n
+UHF	LZ0DAA	RU682	438.525	430.925		25	Sofia (Kopito)	KN12OP	42.636978	23.243964	1327	TV Tower NURTS	Diamond X50	D-Star	Motorola	http://xlx359.ddns.net	Pavel Kostadinov	LZ1PVP	LZ1PVP	n
+UHF	LZ0DAP	RU680	438.500	430.900		23	Plovdiv	KN21IX	41.9968	24.7202	1290	Здравец	2 x Kathrein 9 dBi	D-Star	ID RP4000V+ID RP2C	http://www.repeaters.bg/repeater/view/id/43/	LZ1AA	LZ1AA		n
+UHF	LZ0ATV	RU754	439.425	431.825	79.7	10	Sofia		42.635956	23.2474595	1326	Hotel "Kopitoto"	diamond x-500		HAM	https://i.imgur.com/CcNd2mc.png	Ivan Pobornikov	LZ1IPP		n
+BCN	LZ0SIL		1296.800			1.5	s. Sracimir	KN34QA	44.0343333333	27.35	135		4 x 23ele  DL6WU		LZ5HP SG-lab		Bogdan Bazovski	LZ3BD	LZ3BD	n
+VHF	LZ0RNA	RV58(R5)	145.725	145.125		10	nr.Dobrich	KN33WN	43.554362	27.817966	230		Rx 1x5/8   Tx GP		''Лотос''	http://lz4ha.com/joomla/my-constructions/83	Vladimir Georgiev	LZ4HA		n
+UHF	LZ0RHA	RU704	438.800	431.200		10	nr.Dobrich	KN33WO	43.5922222222	27.8697222222	242		4x3el Yagi		RS4000 (Ericsson)	http://lz4ha.com/joomla/my-constructions/67	Vladimir Georgiev	LZ4HA		y
+UHF	LZ0DMR	RU728	439.100	431.500		45	Sofia	KN12OP	42.636978	23.243964	1327	Копитото	Omni	First HAM-DMR repeater	Hytera RD985	http://www.repeaters.bg/repeater/view/id/45/	LZ1AA	LZ1AA		n
+UHF	LZ0DAD	RU680	438.500	430.900		10	Burgas,Nesebar	KN32TT	42.79857	27.65553	513	 Слънчев бряг	Omni	DMR/DStar/Fusion	Motorola	http://www.repeaters.bg/repeater/view/id/46/	LZ1AA	LZ1AA		n
+VHF	LZ0RGO	RV46	145.575	438.025		15	Gorna Oryahovitsa	KN23UC	43.124712	25.667014	390	Villa ''Rahovets'' Gorna Oryahovitsa	Ground Plane	Cross-Band Repeater 438.025 MHz to 145.575 MHz	Motorola P110/Lotos		Kalin Petkov Petkov	LZ2KN		n
+UHF	LZ0DAH	RU672	438.400	430.800		10	Shumen	KN33LG	43.2528	26.9277	470	Шумен	Omni	D-Star	Motorola	http://www.repeaters.bg/repeater/view/id/61/	LZ1AA	LZ1AA		n
+UHF	LZ0DAX	RU668	438.350	438.350		25	Haskovo	KN21P	43.2528	26.9277	840	TV-Tower	Kathrein 9 dBi	D-Star		http://xlx359.ddns.net	LZ1PVP	LZ1PVP	LZ1PVP	n
+UHF	LZ0HAM	RU760	439.500	431.900	79.7	45	peak Botev	KN22LR	42.7174	24.9178	2376	връх Ботев	3 x Kathrein 6 dBi	Echolink Node 9789    (Analog/DMR Mix mode possible)	Hytera RD985	http://www.repeaters.bg/repeater/view/id/64/	LZ1AA	LZ1AA		n
+UHF	LZ0DAO	RU692	438.450	430.850		25	Peak Oreliak	KN11TN	41.5706	23.6129	2150	TV-Tower-NURTS	Omni	D-Star	Motorola	http://xlx359.ddns.net	LZ1PVP	LZ1PVP	LZ1PVP	n
+UHF	LZ0DAF	RU692	438.450	430.850		25	peak Papia	KN32WC	42.1167	27.8517	505	TV-Tower-NURTS	Omni	D-Star	Motorola	http://xlx359.ddns.net	LZ1ZAF		LZ1PVP	n
+VHF	LZ0VHF	RV48	145.600	145.000			nr. Sofia		0.0	0.0		Momina skala					Georgi Mihaylov	LZ1LSD		n
+UHF	LZ0DSP		439.440	431.840	79.7		nr. Sofia		42.6218	23.242	1440	Momina skala		C4FM			Georgi Mihaylov	LZ1LSD		n
+UHF	LZ0DAR	RU660	438.250	430.650		10	Ruse	KN23XT	43.8244	25.9578	146	Русе	Dimond x50	DMR/DStar/Fusion	Motorola	http://www.repeaters.bg/repeater/view/id/65/	LZ1AA	LZ1AA		n
+VHF	LZ0RUS	RV50	145.625	145.025		25	Ruse	KN23XT	43.8244	25.9578	146	TV-Tower-NURTS	Omni	R1	Kenwoold TKR 751	http://xlx359.ddns.net	LZ2ZD	LZ2ZD	LZ1PVP	n
+UHF	LZ0DAM	RU742	439.275	431.675		25	vr.Musala	KN12TE	42.1793	23.5851	2925	Tower	Omni	D-Star, XLX-359 и BM 284359	Motorola	http://xlx359.ddns.net	Pavel Kostadinov	LZ1PVP	LZ1PVP	n
+UHF	LZ0DRZ	RU692	438.450	430.850		25	Razgrad	KN33GN	43.5565	26.5341	377	TV Tower	Omni	D-Star	Motorola	http://xlx359.ddns.net	LZ2XA	LZ2XA	LZ2XA	n
+BCN	LZ0BGS	BEACON	144.430			1	Burgas	KN32QL	42.46785	27.39991	141m	Deva Broadcast	Turnstile dipole phase	polarisation (H)	LEN 160		Kristo Kristov	LZ2AB		n
+BCN	LZ0ABB	BEACON	144.440	TNX LZ3GH		10	Provadia	KN33QC	43.09361	27.378	350	ТВРС РОЯК	Turnstile dipole phase	polarisation (H)	Arduino uno +SI5351		Kristo Kristov	LZ2AB		n
+UHF	LZ0DAT	RU762	439.525	431.925		25	Peak.Todorka-Bansko	KN11RS	41.7579	23.4349	2514	Tower	Omni 9db	D-Star	Motorola	http://xlx359.ddns.net	Мартин Георгиев	LZ1RIP	LZ1PVP	n
+UHF	LZ0BAN	RU732	439.150	431.550		20	Bansko	KN11RS	0.0	0.0			BC200				Emil	LZ1UH		n
+UHF	LZ0LSD	RU704	438.800	431.200			Sofia	KN12QQ	0.0	0.0		Private house	X-700		Kenwood		Georgi Mihaylov	LZ1LSD		n
+UHF	LZ0VNA	RU664	438.300	430.700		20	Varna	KN33XD	43.1621	27.9281	170	PRIVATE	x-510	FUSION	Yaesu DR2		Vladimir Pisarovski	LZ2VVP		n
+UHF	LZ0SVV	RU670	438.375	430.775		10	Haskovo	KN21SW	41.94	25.5533333333	252		X-50	DMR	UHF Ericsson RS4000		Stefan Voychev	LZ3SV		n
+UHF	LZ0ARB	RU756	439.450	431.850		30	с. Арбанаси	KN23UC	43.10244	25.67523	420	Радиопредавателен център „Резонанс“	Diamond X-50	In service since - 04.08.2019 / EchoLink Node - 351225	RS4000 (Ericsson)		Kalin Petkov Petkov	LZ2KN		n
+UHF	LZ0ASG	RU768	439.600	432.000	79.7				42.002577	24.878003								LZ3YM		n
+UHF	LZ0ESE	RU730	439.125	431.525	79.7		peak Kitka	KN32VH	42.308	27.759				nr. Primorsko			Dimiter Ilkov	LZ1CLD		n
+UHF	LZ0IOS		439.075	431.475			Gorna banya	kn12oq	42.675078	23.23428	695						Alexander Damyanov	LZ3JY		n
+UHF	LZ0DSN	RU684	438.550	430.950		25	Sliven(Karandila)	KN32ER	42.7146	26.3629	1030	TV Tower NURTS	Dimond x50		Motorola	http://xlx359.ddns.net	Nikolai	LZ3NF	LZ1PVP	n
+UHF	LZ0DDA		438.450	430.850		10	Petrohan	kN13ND	43.1333611111	23.1186944444	1639	връх Петрохан	Omni	DMR/DStar/Fusion	Motorola	http://www.repeaters.bg/repeater/view/id/41	LZ1AA	LZ1AA		n
+UHF	LZ0XLX		438.625	431.025			Gorna Banya	kn12oq	42.670063	23.229862	723						Kiril Miloshev	LZ1CLA		n
+UHF	LZ0DSH		438.275	430.675		25	Shumen	KN33LG	43.252521	26.927662	465	Tower		D-star	Yaesu VXR-9000		Zlati	LZ4ZD		n
+UHF	LZ0DDK		439.575	431.975		25	Shumen	KN33LG	43.252521	26.927662	470	Tower		DMR	Motorola GM350		Zlati	LZ4ZD		n
+UHF	LZ0DDO		438.450	430.850		10	Gotse Delchev	KN11TN	41.57083	23.61306	2075	връх Ореляк	Omni	DMR/DStar/Fusion	Motorola	http://www.repeaters.bg/repeater/view/id/63	LZ1AA	LZ1AA		n
+UHF	LZ0TUK		438.100	430.500	79.7	10	Kopitoto	KN12OP	42.636978	23.243964	1327	КРТЦ	Omni	Analog Only, EchoLink node 438100	Motorola	http://www.repeaters.bg/repeater/view/id/72	LZ1TUK	LZ1TUK		n
+UHF	LZ0DBU		439.525	431.925		25	Burgas	KN32R	42.5037	27.4625	150	Private House	Diamond X50	D-star	Motorola		LZ1PVP	LZ1PVP		n
+UHF	LZ0TAR		438.850	431.250	79.7	20	Targovishte	KN33GE	0.0	0.0	600		x50		motorola eurobase		Todor	LZ2TTT		y
+BCN	LZ0STZ		144.451			1	Yastrebovo	KN22UG	42.279428	25.667101	165	LZ1TST	4 x HB9CV	2x9 sec. carrier	HOME MADE		Rusko Rusev	LZ1RT		n
+UHF	LZ0PRC		439.1	431.5	79.7				0.0	0.0		РРТС пЪСТРЕЦ		analog + DMR + APRS						n
+UHF	LZ0DUN		438.000	431.400			Oryahovo	KN13XR	0.0	0.0				D-Star, XLX-359 и BM 284359						n
+VHF	LZ0HIT		145.7875	145.1875		25	peak Bezbog, Pirin	KN11SR	41.7338888889	23.5241666667	2270				ICOM  fr-3000			LZ1DRB		n
+UHF	LZ0VRC		439.150	431.550	79.7	15	Vraca	KN13SF	43.221832	23.544832	300		x50	DMR/Analog	Motorola	https://www.qrz.com/db/lz0vrc	Miroslav Nikolov	LZ4NY		y
+UHF	LZ0DDS		439.625	432.025			Sliven	KN32ER	0.0	0.0				DMR ID 284014			Ivan Yotsov	LZ1TUK	БЪЛГАРСКА ФЕДЕРАЦИЯ НА РАДИОЛЮБИТЕЛИТЕ - БФРЛ	n
+BCN	LZ0SJB		50049.6			2		KN32DR	0.0	0.0			GP				Svetlin Borisov	LZ1SJ		n
+UHF	LZ0DGD		438.45	430.85			peak Orelyak		41.5706	23.6129				analog+DMR ID - 284018, Мрежа DMR+ и XLX023			Stefan Alexandrov	LZ1WDX	BFRA	n
+VHF	LZ0ORL		145.775	145.175	79.7		peak Orelyak	KN11TN	41.5706	23.6129				analog, APRS, Echolink 508360			Stefan Alexandrov	LZ1WDX	BFRA	n
+VHF	LZ0TNW		145.775	145.175		25	V. Tarnovo	KN23TB	0.0	0.0			Vertical		Motorola		Mihail Troskov	LZ2NW		n
+APR	LZ0VLD		439.150	432.550	79.7	15	Vladimirovi	KN13QM	43.531666	23.395333	150		X50		Motorola & MMDVM	http://lz0vld.bulinfo.eu:8066	Miro	LZ4NY		n
+BCN	LZ0STZ		432.451			4	Yastrebovo	KN22UG	42.164589	25.400165	174	LZ1TST hause	Bigwheel	2x9 sec.  carrier	Home made	lz1rt.blogspot.com	Rusko Rusev	LZ1RT		n
+UHF	LZ0SVI		438.875	431.275		10	Svilengrad	KN13CS	41.7811111111	26.2330555556	150	industrial building	5/8 GP		Ericsson Boad		Mariyan	LZ3MJ		n
+UHF	LZ0PNP		438.350	430.750		15	Betolovoto	KN11RU	41.858	23.418	974	Hotel Green Wood		DMR, ID 284028, http://213.149.154.189:8180/			Lachizar Karchev	LZ5PN		n
